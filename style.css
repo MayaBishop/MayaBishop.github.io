@@ -33,7 +33,7 @@ h2{
 h3{
   font-family:'EB Garamond',serif;
   color: #222222;
-  font-size: 30px;
+  font-size: 28px;
   text-align: center;
   padding-left:120px;
   padding-right:120px;
@@ -113,7 +113,7 @@ table{
   height: 1100px;
 }
 .text-area-music{
-  height: 600px;
+  height: 700px;
 }
 .text-area-resume{
   height: 400px;
