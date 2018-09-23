@@ -1,0 +1,132 @@
+/*font-family: 'Cormorant Unicase', serif;
+font-family: 'Cinzel', serif;
+font-family: 'EB Garamond', serif;
+background possible colour #ffffe6*/
+
+h1{
+  font-family: 'Cormorant Unicase',serif;
+  color: white;
+  font-size: 60px;
+  text-align: center;
+}
+
+body {
+  background: #222222;
+}
+
+p{
+  font-family:'EB Garamond',serif;
+  color: white;
+  font-size: 30px;
+  text-align: center;
+  padding-left:120px;
+  padding-right:120px;
+}
+
+h2{
+  font-family:'Cinzel',serif;
+  color:white;
+  font-size: 30px;
+  text-align: center;
+  padding-top:80px;
+}
+
+a{
+  font-family:'Cinzel',serif;
+  color:white;
+  font-size: 25px;
+  text-decoration: none;
+  padding: 10px 20px 10px 20px;
+  text-align: center;
+}
+
+nav{
+  text-align: center;
+}
+table{
+  color: white;
+  text-align: center;
+}
+
+
+
+.bg-about,.bg-travel, .bg-movies, .bg-apps, .bg-books,.bg-music,.bg-resume{
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bg-about {
+  background-image: url(images/mayaweb.jpg);
+  min-height: 400px;
+}
+.bg-travel {
+  background-image: url(images/travel.jpg);
+  min-height: 300px;
+}
+.bg-movies {
+  background-image: url(images/movies.jpg);
+  min-height: 300px;
+}
+.bg-apps {
+  background-image: url(images/apps.jpg);
+  min-height: 300px;
+}
+.bg-books {
+  background-image: url(images/books.jpg);
+  min-height: 300px;
+}
+.bg-music {
+  background-image: url(images/music.jpg);
+  min-height: 300px;
+}
+.bg-resume {
+  background-image: url(images/resume1.jpg);
+  min-height: 300px;
+}
+
+.text-area-about,.text-area-travel,.text-area-movies,.text-area-apps,.text-area-books,.text-area-music,.text-area-resume{
+  background-color: #222222;
+  font-size: 36px;
+}
+.text-area-about{
+  height: 900px;
+}
+.text-area-travel{
+  height: 800px;
+}
+.text-area-movies{
+  height: 1050px;
+}
+.text-area-apps{
+  height: 1100px;
+}
+.text-area-books{
+  height: 1100px;
+}
+.text-area-music{
+  height: 600px;
+}
+.text-area-resume{
+  height: 400px;
+}
+.music-buttons1{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 65%;
+}
+.music-buttons2{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 55%;
+}
+.resume:hover{
+  transform: scale(1.05);
+}
+.resume, .apps{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
