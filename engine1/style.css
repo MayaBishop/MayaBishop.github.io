@@ -205,11 +205,11 @@
 	width: 0;
 	border-radius: 50%;
 	background: rgba(0, 0, 0, 0);
-	-webkit-box-shadow: inset 0 0 0 1px #fff;
-	box-shadow: inset 0 0 0 1px #fff;
+	-webkit-box-shadow: inset 0 0 0 1px #ffffff;
+	box-shadow: inset 0 0 0 1px #ffffff;
 }
 #wowslider-container1 .ws_bullets a.ws_selbull {
-	background: #fff;
+	background: #ffffff;
 	-webkit-box-shadow: none;
 	box-shadow: none;
 }
@@ -265,7 +265,7 @@
 	height: 0; 
 	border-left: 5px solid transparent;
 	border-right: 5px solid transparent;
-	border-top: 5px solid #fff;
+	border-top: 5px solid #ffffff;
 
 	bottom:-6px;
 	margin-left:-2px;
@@ -274,7 +274,7 @@
 	position: absolute;
 	background: none;
 	font: 2.4em 'Slabo 27px', serif;
-	color:#fff;
+	color:#ffffff;
 	text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 	bottom: 50px;
 	top: auto;
@@ -294,13 +294,13 @@
     margin-top: 0.5em;
 	font-size: 0.542em;
 }#wowslider-container1 .ws_images > ul{
-	animation: wsBasic 44s infinite;
-	-moz-animation: wsBasic 44s infinite;
-	-webkit-animation: wsBasic 44s infinite;
+	animation: wsBasic 40s infinite;
+	-moz-animation: wsBasic 40s infinite;
+	-webkit-animation: wsBasic 40s infinite;
 }
-@keyframes wsBasic{0%{left:-0%} 4.55%{left:-0%} 9.09%{left:-100%} 13.64%{left:-100%} 18.18%{left:-200%} 22.73%{left:-200%} 27.27%{left:-300%} 31.82%{left:-300%} 36.36%{left:-400%} 40.91%{left:-400%} 45.45%{left:-500%} 50%{left:-500%} 54.55%{left:-600%} 59.09%{left:-600%} 63.64%{left:-700%} 68.18%{left:-700%} 72.73%{left:-800%} 77.27%{left:-800%} 81.82%{left:-900%} 86.36%{left:-900%} 90.91%{left:-1000%} 95.45%{left:-1000%} }
-@-moz-keyframes wsBasic{0%{left:-0%} 4.55%{left:-0%} 9.09%{left:-100%} 13.64%{left:-100%} 18.18%{left:-200%} 22.73%{left:-200%} 27.27%{left:-300%} 31.82%{left:-300%} 36.36%{left:-400%} 40.91%{left:-400%} 45.45%{left:-500%} 50%{left:-500%} 54.55%{left:-600%} 59.09%{left:-600%} 63.64%{left:-700%} 68.18%{left:-700%} 72.73%{left:-800%} 77.27%{left:-800%} 81.82%{left:-900%} 86.36%{left:-900%} 90.91%{left:-1000%} 95.45%{left:-1000%} }
-@-webkit-keyframes wsBasic{0%{left:-0%} 4.55%{left:-0%} 9.09%{left:-100%} 13.64%{left:-100%} 18.18%{left:-200%} 22.73%{left:-200%} 27.27%{left:-300%} 31.82%{left:-300%} 36.36%{left:-400%} 40.91%{left:-400%} 45.45%{left:-500%} 50%{left:-500%} 54.55%{left:-600%} 59.09%{left:-600%} 63.64%{left:-700%} 68.18%{left:-700%} 72.73%{left:-800%} 77.27%{left:-800%} 81.82%{left:-900%} 86.36%{left:-900%} 90.91%{left:-1000%} 95.45%{left:-1000%} }
+@keyframes wsBasic{0%{left:-0%} 5%{left:-0%} 10%{left:-100%} 15%{left:-100%} 20%{left:-200%} 25%{left:-200%} 30%{left:-300%} 35%{left:-300%} 40%{left:-400%} 45%{left:-400%} 50%{left:-500%} 55%{left:-500%} 60%{left:-600%} 65%{left:-600%} 70%{left:-700%} 75%{left:-700%} 80%{left:-800%} 85%{left:-800%} 90%{left:-900%} 95%{left:-900%} }
+@-moz-keyframes wsBasic{0%{left:-0%} 5%{left:-0%} 10%{left:-100%} 15%{left:-100%} 20%{left:-200%} 25%{left:-200%} 30%{left:-300%} 35%{left:-300%} 40%{left:-400%} 45%{left:-400%} 50%{left:-500%} 55%{left:-500%} 60%{left:-600%} 65%{left:-600%} 70%{left:-700%} 75%{left:-700%} 80%{left:-800%} 85%{left:-800%} 90%{left:-900%} 95%{left:-900%} }
+@-webkit-keyframes wsBasic{0%{left:-0%} 5%{left:-0%} 10%{left:-100%} 15%{left:-100%} 20%{left:-200%} 25%{left:-200%} 30%{left:-300%} 35%{left:-300%} 40%{left:-400%} 45%{left:-400%} 50%{left:-500%} 55%{left:-500%} 60%{left:-600%} 65%{left:-600%} 70%{left:-700%} 75%{left:-700%} 80%{left:-800%} 85%{left:-800%} 90%{left:-900%} 95%{left:-900%} }
 
 #wowslider-container1 .ws_bullets  a img{
 	text-indent:0;
@@ -309,7 +309,7 @@
 	left:-43px;
 	visibility:hidden;
 	position:absolute;
-    border: 1px solid #fff;
+    border: 1px solid #ffffff;
 	max-width:none;
 }
 #wowslider-container1 .ws_bullets a:hover img{
@@ -326,7 +326,7 @@
 	overflow:hidden;
 	position:relative;
 	width:85px;
-	background-color:#fff;
+	background-color:#ffffff;
 }
 #wowslider-container1  .ws_bullets .ws_bulframe{
 	display:none;
@@ -335,7 +335,7 @@
 	overflow:visible;
 	position:absolute;
 	cursor:pointer;
-    border: 1px solid #fff;
+    border: 1px solid #ffffff;
 }#wowslider-container1 .ws_bulframe div div{
 	height: auto;
 }

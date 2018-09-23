@@ -1,22 +1,22 @@
 /*font-family: 'Cormorant Unicase', serif;
 font-family: 'Cinzel', serif;
 font-family: 'EB Garamond', serif;
-background possible colour #ffffe6*/
+background possible colour #ffffe6, #ffc3b2*/
 
 h1{
   font-family: 'Cormorant Unicase',serif;
-  color: black;
+  color: #222222;
   font-size: 60px;
   text-align: center;
 }
 
 body {
-  background: #ffc3b2;
+  background: #fed5ad;
 }
 
 p{
   font-family:'EB Garamond',serif;
-  color: black;
+  color: #222222;
   font-size: 30px;
   text-align: center;
   padding-left:120px;
@@ -25,16 +25,24 @@ p{
 
 h2{
   font-family:'Cinzel',serif;
-  color:black;
+  color:#222222;
   font-size: 30px;
   text-align: center;
   padding-top:80px;
 }
+h3{
+  font-family:'EB Garamond',serif;
+  color: #222222;
+  font-size: 30px;
+  text-align: center;
+  padding-left:120px;
+  padding-right:120px;
+}
 
 a{
   font-family:'Cinzel',serif;
-  color:black;
-  font-size: 25px;
+  color:#222222;
+  font-size: 30px;
   text-decoration: none;
   padding: 10px 20px 10px 20px;
   text-align: center;
@@ -44,7 +52,7 @@ nav{
   text-align: center;
 }
 table{
-  color: black;
+  color: #222222;
   text-align: center;
 }
 
@@ -86,7 +94,7 @@ table{
 }
 
 .text-area-about,.text-area-travel,.text-area-movies,.text-area-apps,.text-area-books,.text-area-music,.text-area-resume{
-  background-color: #ffc3b2;
+  background-color: #fed5ad;
   font-size: 36px;
 }
 .text-area-about{
